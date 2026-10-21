@@ -1,6 +1,12 @@
 {
-  "version": "0.9.0",
+  "version": "1.0.0",
   "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-21",
+      "title": "World Paypal 1.0.0",
+      "markdown": "## Release\n- Initial World Paypal release for Android."
+    },
     {
       "version": "0.9.0",
       "date": "2026-10-20",

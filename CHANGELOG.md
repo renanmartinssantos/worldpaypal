@@ -2,6 +2,13 @@
 
 <!-- Generated from changelog/*.md. Run npm run changelog:generate. -->
 
+## 1.0.0 — World Paypal 1.0.0
+
+2026-10-21
+
+### Release
+- Initial World Paypal release for Android.
+
 ## 0.9.0 — Encounter builder, recovery actions and a new initiative tracker
 
 2026-10-20
